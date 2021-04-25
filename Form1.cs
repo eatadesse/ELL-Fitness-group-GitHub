@@ -26,10 +26,5 @@ namespace ELL_Fitness_group__GitHub_
         {
 
         }
-
-        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }
